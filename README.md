@@ -1,4 +1,3 @@
-# testrepo
-## Agrego un texto 
-
-It´s a markdown file in this repository.
+# Testrepo
+## Testing repository
+This is the first markdown file.
